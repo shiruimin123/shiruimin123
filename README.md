@@ -20,6 +20,7 @@ I work on **high-performance computing and computer architecture**, focusing on 
 
 - **Vector ISAs** — performance portability and vector-length-agnostic code on **ARM SVE** and **RISC-V RVV**
 - **Characterization** — instruction-level throughput, performance and energy of HPC and ML kernels on new vector processors
+- **HW/SW co-degsin** — explore design space and microarchitecture target to VLA(vector-length agnoatic).
 - **Applications** — quantum circuit simulation, ML inference operators (XNNPACK), HPC proxy applications
 
 ### First-author Publications
@@ -34,7 +35,7 @@ I work on **high-performance computing and computer architecture**, focusing on 
 
 <sub>All publications on <a href="https://scholar.google.com/citations?user=rqAbg9cAAAAJ&hl=en">Google Scholar</a>.</sub>
 
-### Open Source
+### Open Source Repo
 
 | Project | Description |
 |---|---|
